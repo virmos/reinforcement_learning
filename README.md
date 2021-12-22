@@ -41,3 +41,4 @@ assessed by an assignment and the exam).
 * [Course webpage](http://web.stanford.edu/class/cs234/index.html)
 * [Youtube
     videos](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
+* [Other materials](https://sites.google.com/view/deep-rl-bootcamp/lectures)
